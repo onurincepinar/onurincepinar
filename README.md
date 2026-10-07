@@ -11,9 +11,7 @@
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular&theme=dark" alt=".NET, C#, Angular" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,laravel,php,js,nodejs,react,vue,mysql,mongodb,docker,git&theme=dark&perline=7" alt=".NET, C#, Angular, Laravel, PHP, JavaScript, Node.js, React, Vue, MySQL, MongoDB, Docker, Git" />
 </p>
 
 <h2 align="center">📬 Let's Connect</h2>
