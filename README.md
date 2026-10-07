@@ -1,23 +1,71 @@
-<h1 align="center">Hi 👋, I'm Onur İncepınar</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;.NET+%26+C%23+%26+Angular;Building+web+applications" alt="Full Stack Developer — .NET, C# and Angular" />
-</p>
+# Onur İncepınar
 
-<p align="center">
-  Building web applications with .NET, C# and Angular.
-</p>
+**FULL STACK DEVELOPER · İZMİR, TÜRKİYE**
 
-<h2 align="center">🛠 Tech Stack</h2>
+<a href="https://github.com/onurincepinar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&height=60&lines=From+backend+logic+to+frontend+detail.;.NET+%2F+C%23+%2F+Angular;Laravel+%2F+Node.js+%2F+React+%2F+Vue" alt="From backend logic to frontend detail. .NET, C#, Angular, Laravel, Node.js, React and Vue." />
+</a>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,laravel,php,js,nodejs,react,vue,mysql,mongodb,docker,git&theme=dark&perline=7" alt=".NET, C#, Angular, Laravel, PHP, JavaScript, Node.js, React, Vue, MySQL, MongoDB, Docker, Git" />
-</p>
+Building web applications across the backend and frontend.
 
-<h2 align="center">📬 Let's Connect</h2>
+<a href="mailto:onurincepinar@gmail.com"><img src="https://img.shields.io/badge/LET%27S_TALK-A78BFA?style=for-the-badge&logo=gmail&logoColor=181824" alt="Email Onur" /></a>
+&nbsp;
+<a href="https://github.com/onurincepinar?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-242438?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 
-<p align="center">
-  <a href="mailto:onurincepinar@gmail.com">Email</a>
-  ·
-  <a href="https://github.com/onurincepinar">GitHub</a>
-</p>
+</div>
+
+---
+
+### A little about me
+
+I'm Onur, a full stack developer based in İzmir, Türkiye. My stack spans **.NET and C#**, **Laravel and PHP**, and **JavaScript**, with **Angular, React and Vue** on the frontend.
+
+### The tools I build with
+
+<div align="center">
+
+**BACKEND**
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,laravel,php,nodejs&theme=dark" alt="Backend: .NET, C#, Laravel, PHP, Node.js" />
+
+<br /><br />
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=angular,react,vue,js&theme=dark" alt="Frontend: Angular, React, Vue, JavaScript" />
+
+<br /><br />
+
+**DATABASES & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git&theme=dark" alt="Databases and tools: MySQL, MongoDB, Docker, Git" />
+
+</div>
+
+<br />
+
+### A look at my projects
+
+#### [Book API ↗](https://github.com/onurincepinar/book-api)
+
+A REST API for books and authors, built on a Node.js starter with Express and MongoDB. Includes Swagger documentation and Docker setup.
+
+`JavaScript` · `Node.js` · `Express` · `MongoDB` · `Docker`
+
+#### [Second-Hand Marketplace ↗](https://github.com/onurincepinar/Laravel8-IkinciElEsyaAlimSatim)
+
+A Laravel-based web project for buying and selling second-hand items.
+
+`PHP` · `Laravel`
+
+---
+
+<div align="center">
+
+**Have something in mind? Let's connect.**
+
+[onurincepinar@gmail.com](mailto:onurincepinar@gmail.com)
+
+</div>
