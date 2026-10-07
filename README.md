@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Onur İncepınar</h1>
 
-<!--
-**onurincepinar/onurincepinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;.NET+%26+C%23+%26+Angular;Building+web+applications" alt="Full Stack Developer — .NET, C# and Angular" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building web applications with .NET, C# and Angular.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular&theme=dark" alt=".NET, C#, Angular" />
+  </a>
+</p>
+
+<h2 align="center">📬 Let's Connect</h2>
+
+<p align="center">
+  <a href="mailto:onurincepinar@gmail.com">Email</a>
+  ·
+  <a href="https://github.com/onurincepinar">GitHub</a>
+</p>
